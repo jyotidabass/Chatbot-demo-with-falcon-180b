@@ -1,0 +1,3 @@
+huggingface_hub
+gradio==3.42.0
+text-generation==0.4.1
